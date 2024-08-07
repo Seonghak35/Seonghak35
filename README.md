@@ -1,6 +1,6 @@
 # Hello, I am SeongHak KIM 👋
 
-### 👀 Research Fields
+### 👀 Research Area
 
 - :desktop_computer: Machine Learning, Computer Vision, Efficient AI
 - :airplane: Computational Fluid Dynamics, Multiphase Flow, Bubble Dynamics
