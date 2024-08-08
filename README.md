@@ -1,4 +1,4 @@
-# Hello, I am SeongHak KIM 👋
+# ¡Hola!, I am SeongHak KIM 👋
 
 ### 👀 Research Area
 
