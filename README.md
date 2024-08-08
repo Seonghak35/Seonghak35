@@ -5,12 +5,12 @@
 - :desktop_computer: Machine Learning, Computer Vision, Efficient AI
 - :airplane: Computational Fluid Dynamics, Multiphase Flow, Bubble Dynamics
 
-### 💪 Skills
+### 💪 Skill
 #### Languages
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Fortran" src ="https://img.shields.io/badge/Fortran-734F96.svg?&style=for-the-badge&logo=Fortran&logoColor=white"/>
 
-#### AI frameworks
+#### AI Frameworks
 <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/>
 
 #### Simulation Tool
