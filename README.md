@@ -13,8 +13,9 @@
 #### AI Frameworks
 <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/>
 
-#### Simulation Tool
-<img alt="COMSOL" src ="https://img.shields.io/badge/COMSOL-368CCB.svg?&style=for-the-badge&logo=comsol&logoColor=white"/>
+#### Engineering Tools
+<img alt="COMSOL" src ="https://img.shields.io/badge/COMSOL-368CCB.svg?&style=for-the-badge&logo=comsol&logoColor=white"/> <img alt="CATIA" src ="https://img.shields.io/badge/CATIA-001871.svg?&style=for-the-badge&logo=dassaultsystemes&logoColor=white"/> <img alt="SOLIDWORKS" src ="https://img.shields.io/badge/solidworks-E31818.svg?&style=for-the-badge&logo=dassaultsystemes&logoColor=white"/> <img alt="AUTOCAD" src ="https://img.shields.io/badge/autocad-E51050.svg?&style=for-the-badge&logo=autocad&logoColor=white"/>
+
 
 <!---
 Seonghak35/Seonghak35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
